@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @filipeandrade6
-- 👀 I’m interested in Go(lang), Python and backend in general.
+- 👀 I’m interested in Go(lang), NodeJS, Python and backend in general.
 - 🌱 I’m currently learning Go(lang), React, Django, microservices, event-driven arch, etc...
 
 <!---
